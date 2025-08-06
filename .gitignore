@@ -27,3 +27,6 @@ override.tf.json
 # CLI configuration file (user-specific)
 .terraformrc
 terraform.rc
+
+# Terraform lock file
+.terraform.lock.hcl
